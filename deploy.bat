@@ -1,8 +1,8 @@
 @echo off
 hugo
 py -3 deploy.py
-cd ..\WinterTechForum.github.io
+cd ..\EvolveFromWithin.github.io
 @echo on
 git commit -a -m "update"
 git push
-cd ..\WinterTechForum-hugo
+cd ..\EvolveFromWithin-hugo

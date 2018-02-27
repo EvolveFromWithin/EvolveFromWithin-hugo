@@ -1,6 +1,6 @@
-# The Winter Tech Forum Hugo Static Site Source
+# The Evolve From Within Hugo Static Site Source
 
-Hugo Static Site for the [Winter Tech Forum Conference](www.WinterTechForum.com).
+Hugo Static Site for the Evolve From Within site.
 
 Because of the theme, the site automatically works well on phones as well as
 computers and tablets.
@@ -8,12 +8,6 @@ computers and tablets.
 Everything is in markdown so it's very easy to add/edit content. If you look
 at the "content" subdirectory you'll see how straightforward it is to add new
 pages.
-
-I think this will also make it easier to clone/set up new conferences.
-
-I'm still coming up the curve on static site generators in general and Hugo in
-particular so if anyone knows more please feel free to make suggestions and/or
-pull requests.
 
 ## To Build:
 
@@ -28,6 +22,6 @@ pull requests.
     set.
 
 5.  To duplicate what happens during an actual deploy, first clone
-    [WinterTechForum.github.io](https://github.com/WinterTechForum/WinterTechForum.github.io)
+    [EvolveFromWithin.github.io](https://github.com/EvolveFromWithin/EvolveFromWithin.github.io)
     into your "git" subdirectory. Now run `python deploy.py` from within this
     subdirectory.
